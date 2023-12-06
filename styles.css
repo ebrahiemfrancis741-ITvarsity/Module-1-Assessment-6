@@ -1,0 +1,96 @@
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #00171f;
+}
+
+#menuBar .logo{
+    color: green;
+    font-size: 40px;
+    padding-top: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#menuBar{
+    background-color: #003459;
+    padding-left:10%;
+    padding-bottom: 5px;
+}
+
+#menuBar a{
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+    margin-right: 5%;
+}
+
+.catalogueProduct{
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: #003459;
+    padding-left: 10%;
+}
+
+.catalogueProduct h1{
+    font-size: 18px;
+}
+
+.catalogueProduct img{
+    width:80%;
+}
+.catalogueProduct a{
+    text-decoration: none;
+    color: #00171f;
+}
+
+.productDetails{
+    padding-left: 10%;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+.productDetails h1{
+    font-size: 18px;
+}
+
+.productDetails img{
+    width: 80%;
+    border: 1px;
+    border-style: solid;
+    border-color: #003459;
+    padding: 2px;
+}
+
+.productDetails ul{
+    color: green;
+    font-size: 20px;
+}
+
+.productDetails strong{
+    font-weight: 800;
+}
+
+.productDetails .buyButton{
+    margin: 5px;
+}
+
+.productDetails .buyButton a{
+    text-decoration: none;
+    background-color: #003459;
+    padding: 5px;
+    font-weight: 800;
+    color: white;
+}
+
+.productDetails th{
+    color: #003459;
+    font-weight: 800;
+}
+.productDetails td{
+    font-weight: 600;
+}
+
+.productDetails h2{
+    font-weight: 800;
+}
